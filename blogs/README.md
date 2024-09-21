@@ -1,4 +1,4 @@
-All the directory must follow the format {id}:{title}
+All the directory must have a unique uuid
 
 The mandatory metadata is expected to have the following key mandatory
 

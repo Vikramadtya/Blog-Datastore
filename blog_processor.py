@@ -20,12 +20,12 @@ directory_with_blogs = os.fsencode(PATH_TO_BLOGS)
 
 
 def is_valid_uuid(uuid_to_test, version=4):
+    # check for validity of Uuid
     try:
-        # check for validity of Uuid
         uuid_obj = uuid.UUID(uuid_to_test, version=version)
     except ValueError:
-        print('not a valid uuid {}'.format(uuid_to_test))
-        return 'false';
+        logging.error('not a valid uuid {}'.format(uuid_to_test))
+        return 'false'
     return 'true'
 
 
@@ -82,24 +82,29 @@ def main():
             with (open(blog_metadata_path) as metadata_json_file):
                 metadata = json.load(metadata_json_file)
 
-                if ("publish" not in metadata) or ("blogNumber" not in metadata) or (
+
+                # ensure the metadata structure
+                if ("publish" not in metadata) or ("blogNumber" not in metadata) or ("id" not in metadata) or (
                         "previewImageSrc" not in metadata) or (
                         "author" not in metadata) or ("tags" not in metadata) or ("title" not in metadata) or (
                         "summary" not in metadata) or ("slug" not in metadata) or ("demo" not in metadata):
                     logging.warning('missing mandatory data in blog {} so not processing'.format(blog_dir_name))
                     break
 
+                if not metadata["publish"] == True:
+                    logging.warning('publish is not true in blog {} so not processing'.format(blog_dir_name))
+                    continue
+
                 blog_number = metadata["blogNumber"]
                 blog_name = metadata["title"]
 
                 blog_content_path = os.path.join(PATH_TO_BLOGS, blog_dir_name, BLOG_FILE_NAME)
                 blog_content_file_hash = hashfile(blog_content_path)
-                metadata_content_file_hash = hashfile(blog_metadata_path)
 
                 if "hash" in metadata:
                     if blog_content_file_hash == metadata["hash"]:
                         logging.info(
-                            'Blog metadata has no changes from {} so skipping update of {} {}'.format(
+                            'Blog has no changes from {} so skipping update of {} {}'.format(
                                 metadata["updatedAt"],
                                 blog_name, blog_number))
                     else:
