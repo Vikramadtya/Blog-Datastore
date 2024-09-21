@@ -5,7 +5,7 @@ import os
 import uuid
 
 PATH_TO_BLOGS = "/Users/vicky/Repository/Blog-Scratch/blogs"
-PATH_TO_STATIC = "/Users/vicky/Repository/Blog-Scratch/_static"
+PATH_TO_STATIC = "/_generated"
 
 METADATA_FILE_NAME = "metadata.json"
 

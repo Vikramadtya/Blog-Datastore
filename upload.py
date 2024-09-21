@@ -7,7 +7,7 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore
 
-PATH_TO_BLOGS = "/Users/vicky/Repository/Blog-Scratch/_static"
+PATH_TO_BLOGS = "/_generated"
 
 FIREBASE_AUTH_JSON = {
     "type": "service_account",
