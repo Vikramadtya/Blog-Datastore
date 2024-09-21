@@ -87,7 +87,7 @@ def add_new_metadata(metadata):
     doc_ref.set(metadata)
 
     doc_ref = db.collection("metadata").document(metadata["id"])
-    doc_ref.set({"id": str(uuid.uuid4()), "likes": 0, "views": 0})
+    doc_ref.set({"id": metadata["id"], "likes": 0, "views": 0})
 
     return metadata
 
