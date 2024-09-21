@@ -1,0 +1,22 @@
+{
+    "author": "vsingh",
+    "blogNumber": 1,
+    "createdAt": "2024-09-19 22:42:00.436917",
+    "demo": {
+        "live": false,
+        "preview": null,
+        "repository": null
+    },
+    "hash": "8fe30b3f77a381b85c88f409e7548114c16bc506dab10861116ff450c765601c",
+    "id": "f8b34c36-0716-4cb2-8fee-3ed013a68260",
+    "previewImageSrc": "",
+    "publish": true,
+    "slug": "first-blog",
+    "summary": "A short introduction to technical writing",
+    "tags": [
+        "deployed"
+    ],
+    "title": "My First Blog",
+    "updatedAt": "2024-09-19 22:42:00.436917",
+    "version": 1
+}
