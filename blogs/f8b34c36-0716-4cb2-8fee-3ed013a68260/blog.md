@@ -11,4 +11,4 @@ Finally, writing allows me to measure growth. Years from now, I want to look bac
 So here we are. This blog is my attempt to share, connect, and grow alongside you. Whether you’re a seasoned developer, a curious learner, or just someone exploring, I’m glad you’re here. Let’s keep building and learning together!
 
 
-<img src="./assets/blog.svg" height="50" width="50">
+<img src="https://github.com/Vikramadtya/Blog-Datastore/blob/main/blogs/f8b34c36-0716-4cb2-8fee-3ed013a68260/assets/blog.svg" height="100" width="100" >

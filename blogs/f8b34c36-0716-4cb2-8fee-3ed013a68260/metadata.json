@@ -1,13 +1,13 @@
 {
     "author": "vsingh",
     "blogNumber": 1,
-    "createdAt": "2024-09-19 22:42:00.436917",
+    "createdAt": "2024-12-20 00:11:46.961986",
     "demo": {
         "live": false,
         "preview": null,
         "repository": null
     },
-    "hash": "0447857ded174522424857d854828fcd6016025f203bab29e2ead21c866f90a8",
+    "hash": "7ddfe76dd2e0885f21b8b828e4f3880c29209b9f41b5e91b8adab47a62845a6f",
     "id": "f8b34c36-0716-4cb2-8fee-3ed013a68260",
     "previewImageSrc": "",
     "publish": true,
@@ -17,6 +17,7 @@
         "deployed"
     ],
     "title": "My First Blog",
-    "updatedAt": "2024-12-19 00:05:21.218200",
+    "type": "blog",
+    "updatedAt": "2024-12-20 00:13:39.325177",
     "version": 2
 }
