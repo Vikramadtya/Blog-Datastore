@@ -7,15 +7,20 @@
         "preview": null,
         "repository": null
     },
-    "hash": "e25549d3614a058c833f4eb549585aec1cbfa8944f82966253b8c01bd25f8f14",
+    "hash": "f219356fce45d059d025a8fc0aa5bb143155410ebc235268b3db07fd1c1354e8",
     "id": "9aecebee-4b11-4014-a6aa-8c11aac01dd1",
     "previewImageSrc": "",
     "publish": true,
-    "slug": "test",
-    "summary": "summary",
-    "tags": [],
-    "title": "test",
+    "slug": "tar-command-chronicle",
+    "summary": "Dive into the magic of the tar command and uncover its most practical and time-saving uses.",
+    "tags": [
+        "tar",
+        "linux",
+        "code",
+        "snippet"
+    ],
+    "title": "The Tar Command Chronicles: Bundle, Zip, and Conquer!",
     "type": "snippet",
-    "updatedAt": "2024-12-23 15:41:03.119334",
-    "version": 4
+    "updatedAt": "2024-12-23 19:14:29.050616",
+    "version": 5
 }
