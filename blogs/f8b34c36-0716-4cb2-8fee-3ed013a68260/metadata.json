@@ -7,9 +7,9 @@
         "preview": null,
         "repository": null
     },
-    "hash": "7ddfe76dd2e0885f21b8b828e4f3880c29209b9f41b5e91b8adab47a62845a6f",
+    "hash": "141bb4c6efd4ab55ebbb8aea72542e17f4ba22a50a2090f9f6bce6ca9759516d",
     "id": "f8b34c36-0716-4cb2-8fee-3ed013a68260",
-    "previewImageSrc": "",
+    "previewImageSrc": "https://www.neuralcook.com/images/first-blog.png",
     "publish": true,
     "slug": "first-blog",
     "summary": "A short introduction to technical writing",
@@ -18,6 +18,6 @@
     ],
     "title": "My First Blog",
     "type": "blog",
-    "updatedAt": "2024-12-20 00:13:39.325177",
-    "version": 2
+    "updatedAt": "2024-12-22 00:26:08.104912",
+    "version": 3
 }

@@ -7,19 +7,19 @@
         "preview": null,
         "repository": null
     },
-    "hash": "3623607d3323bde561408c9e24dd3ba4a01bd9e87e5e4ea45dc39775446cefee",
+    "hash": "8846f89b1f0b4efec906a835906875d306105635c50ba8e29e6210a75e9b4296",
     "id": "98efed8c-5dcf-4a0e-b708-3b9b6e6f3599",
-    "previewImageSrc": "",
+    "previewImageSrc": "https://www.neuralcook.com/images/sorting-visualizer.jpg",
     "publish": true,
     "slug": "sort-visualizer",
-    "summary": "A short introduction to technical writing",
+    "summary": "An interactive web application showcasing the functionality of sorting algorithms like Quick Sort, Merge Sort, and Bubble Sort. Built with Next.js and deployed on Vercel, it provides a dynamic and intuitive visual learning experience for algorithm enthusiasts.\n",
     "tags": [
         "deployed",
         "javascript",
         "sort algorithms"
     ],
-    "type": "snippet",
     "title": "Sort Visualizer",
-    "updatedAt": "2024-09-20 09:27:58.737884",
-    "version": 1
+    "type": "blog",
+    "updatedAt": "2024-12-22 00:27:05.243488",
+    "version": 2
 }

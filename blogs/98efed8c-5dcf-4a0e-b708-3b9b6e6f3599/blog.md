@@ -12,4 +12,3 @@ I’ve spent countless hours trying to decode how different sorting algorithms w
 Whether you’re a student struggling to visualize how sorting algorithms function, a developer looking to refresh your knowledge, or just someone curious about how data gets sorted behind the scenes, this visualizer is designed for you. I’ve built it to be an invaluable resource for anyone who learns best by seeing concepts in action.
 
 If you’re ready to deepen your understanding of sorting algorithms, I invite you to check out my Sorting Visualizer. It’s an excellent way to see theory come to life and enhance your coding skills with each interaction. Dive in and start visualizing today!
-

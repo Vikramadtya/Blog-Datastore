@@ -1,5 +1,5 @@
 {
-    "author": "vikramaditya singh",
+    "author": "vsingh",
     "blogNumber": 3,
     "createdAt": "2024-12-20 00:13:39.323081",
     "demo": {
@@ -7,7 +7,7 @@
         "preview": null,
         "repository": null
     },
-    "hash": "3623607d3323bde561408c9e24dd3ba4a01bd9e87e5e4ea45dc39775446cefee",
+    "hash": "567df8ebf8907f2d4d54e03d6bb4ffc126d224dc2851cc385d9a2da5b9cf4cd7",
     "id": "9aecebee-4b11-4014-a6aa-8c11aac01dd1",
     "previewImageSrc": "",
     "publish": true,
@@ -16,6 +16,6 @@
     "tags": [],
     "title": "test",
     "type": "snippet",
-    "updatedAt": "2024-12-20 00:13:39.323081",
-    "version": 1
+    "updatedAt": "2024-12-22 00:26:08.101625",
+    "version": 3
 }

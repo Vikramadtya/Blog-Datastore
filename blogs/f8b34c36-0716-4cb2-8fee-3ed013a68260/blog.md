@@ -9,6 +9,3 @@ Another driving force was community. During my own learning, I’ve benefited im
 Finally, writing allows me to measure growth. Years from now, I want to look back and see how far I’ve come — not just in skill, but in perspective and clarity of thought.
 
 So here we are. This blog is my attempt to share, connect, and grow alongside you. Whether you’re a seasoned developer, a curious learner, or just someone exploring, I’m glad you’re here. Let’s keep building and learning together!
-
-
-<img src="https://github.com/Vikramadtya/Blog-Datastore/blob/main/blogs/f8b34c36-0716-4cb2-8fee-3ed013a68260/assets/blog.svg" height="100" width="100" >
