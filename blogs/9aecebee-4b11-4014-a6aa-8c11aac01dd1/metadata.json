@@ -7,7 +7,7 @@
         "preview": null,
         "repository": null
     },
-    "hash": "567df8ebf8907f2d4d54e03d6bb4ffc126d224dc2851cc385d9a2da5b9cf4cd7",
+    "hash": "e25549d3614a058c833f4eb549585aec1cbfa8944f82966253b8c01bd25f8f14",
     "id": "9aecebee-4b11-4014-a6aa-8c11aac01dd1",
     "previewImageSrc": "",
     "publish": true,
@@ -16,6 +16,6 @@
     "tags": [],
     "title": "test",
     "type": "snippet",
-    "updatedAt": "2024-12-22 00:26:08.101625",
-    "version": 3
+    "updatedAt": "2024-12-23 15:41:03.119334",
+    "version": 4
 }
